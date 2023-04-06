@@ -1,1 +1,1 @@
-echo的npm库
+echo的npm库管理

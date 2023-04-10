@@ -6,7 +6,7 @@
 # 用法
 import echoTrack from 'echo-track';
 
-const instance = new echoTrack()
+const instance = new echoTrack();
 instance?.action({
   name: 'echo',
   event: 'click'
